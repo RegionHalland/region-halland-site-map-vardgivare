@@ -1,0 +1,13 @@
+{
+    "name": "regionhalland/region-halland-site-map-vardgivare",
+    "description": "Visa Site Map",
+    "type": "wordpress-plugin",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Roland Hydén",
+            "email": "Roland.Hyden@Regionhalland.se"
+        }
+    ],
+    "require": {}
+}
